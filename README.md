@@ -1,2 +1,3 @@
 # hello-world
-The github repository to get started
+The github repository to get started with github
+
